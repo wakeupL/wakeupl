@@ -51,7 +51,7 @@
 ### 📊 Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=wakeupl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de wakeupl" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wakeupl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de wakeupl" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wakeupl&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%" />
 </div>
 
