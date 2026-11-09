@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Ángel Oyarzún 👋</h1>
-  <p><strong>Senior E-Commerce & Fullstack Developer | Laravel, LunarPHP & Filament Specialist</strong></p>
+  <p><strong>E-Commerce & Fullstack Developer | Laravel, LunarPHP & Filament Specialist</strong></p>
   <p><em>Construyendo soluciones de comercio electrónico escalables, paneles de administración y arquitecturas modernas.</em></p>
 
   <p>
